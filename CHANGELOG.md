@@ -12,3 +12,4 @@
 
 ### Added
 - 初始化项目结构（README、LICENSE、CHANGELOG）
+- 新增随笔：调研式推销的底层逻辑（intro/research_based_selling，自 insight 仓库移入）
